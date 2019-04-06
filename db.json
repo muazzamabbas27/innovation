@@ -1,1 +1,378 @@
 
+{
+  "getArticleByBarcode": [
+    {
+      "barcode": "5710405281779",
+      "title": "title 5710405281779",
+      "description": "description 5710405281779",
+      "stock": 5,
+      "unit":"EA",
+      "price":10
+    },
+    {
+      "barcode": "5710405065348",
+      "title": "title 5710405065348",
+      "description": "description 5710405065348",
+      "stock": 9,
+      "unit":"EA",
+      "price":18
+    },
+     {
+      "barcode": "5710405066321",
+      "title": "title 5710405066321",
+      "description": "description 5710405066321",
+      "stock": 11,
+      "unit":"kg",
+      "price":22
+    },
+    {
+      "barcode": "5710405068974",
+      "title": "title 5710405068974",
+      "description": "description 5710405068974",
+      "stock": 17,
+      "unit":"EA",
+      "price":34
+    },
+    {
+      "barcode": "5710405068936",
+      "title": "title 5710405068936",
+      "description": "description 5710405068936",
+      "stock": 14,
+      "unit":"KG",
+      "price":28
+    },
+    {
+      "barcode": "5710405069667",
+      "title": "title 5710405069667",
+      "description": "description 5710405069667",
+      "stock": 20,
+      "unit":"EA",
+      "price":40
+    },
+     {
+      "barcode": "5710405267285",
+      "title": "title 5710405267285",
+      "description": "description 5710405267285",
+      "stock": 80,
+      "unit":"EA",
+      "price":160
+    },
+    {
+      "barcode": "2080950001256",
+      "title": "title 2080950001256",
+      "description": "description 2080950001256",
+      "stock": 56,
+      "unit":"EA",
+      "price":112
+    },
+    {
+      "barcode": "2080950002505",
+      "title": "title 2080950002505",
+      "description": "description 2080950002505",
+      "stock": 75,
+      "unit":"KG",
+      "price":150
+    },
+    {
+      "barcode": "2080950005001",
+      "title": "title 2080950005001",
+      "description": "description 2080950005001",
+      "stock": 90,
+      "unit":"EA",
+      "price":180
+    },
+    {
+      "barcode": "2080950007500",
+      "title": "title 2080950007500",
+      "description": "description 2080950007500",
+      "stock": 1,
+      "unit":"EA",
+      "price":2
+    },
+    {
+      "barcode": "2080950010005",
+      "title": "title 2080950010005",
+      "description": "description 2080950010005",
+      "stock": 100,
+      "unit":"kG",
+      "price":200
+    },
+     {
+      "barcode": "2000000099958",
+      "title": "title 2000000099958",
+      "description": "description 2000000099958",
+      "stock": 58,
+      "unit":"EA",
+      "price":116
+    },
+    {
+      "barcode": "2000000149004",
+      "title": "title 2000000149004",
+      "description": "description 2000000149004",
+      "stock": 4,
+      "unit":"EA",
+      "price":8
+    },
+    {
+      "barcode": "2000000250007",
+      "title": "title 2000000250007",
+      "description": "description 2000000250007",
+      "stock": 15,
+      "unit":"EA",
+      "price":30
+    }
+  ],
+  "getStockByBarcode": [
+     
+    {
+      "barcode": "5710405065348",
+      "title": "title 5710405065348",
+      "description": "description 5710405065348",
+      "stock": 9,
+      "unit":"EA",
+      "price":18
+    },
+    
+    {
+      "barcode": "5710405068974",
+      "title": "title 5710405068974",
+      "description": "description 5710405068974",
+      "stock": 17,
+      "unit":"EA",
+      "price":34
+    },
+    {
+      "barcode": "5710405068936",
+      "title": "title 5710405068936",
+      "description": "description 5710405068936",
+      "stock": 14,
+      "unit":"KG",
+      "price":28
+    },
+    {
+      "barcode": "5710405069667",
+      "title": "title 5710405069667",
+      "description": "description 5710405069667",
+      "stock": 20,
+      "unit":"EA",
+      "price":40
+    },
+     {
+      "barcode": "5710405066321",
+      "title": "title 5710405066321",
+      "description": "description 5710405066321",
+      "stock": 11,
+      "unit":"kg",
+      "price":22
+    },
+     {
+      "barcode": "5710405267285",
+      "title": "title 5710405267285",
+      "description": "description 5710405267285",
+      "stock": 80,
+      "unit":"EA",
+      "price":160
+    },
+    {
+      "barcode": "2080950001256",
+      "title": "title 2080950001256",
+      "description": "description 2080950001256",
+      "stock": 56,
+      "unit":"EA",
+      "price":112
+    },
+    {
+      "barcode": "2080950002505",
+      "title": "title 2080950002505",
+      "description": "description 2080950002505",
+      "stock": 75,
+      "unit":"KG",
+      "price":150
+    },
+    {
+      "barcode": "2000000250007",
+      "title": "title 2000000250007",
+      "description": "description 2000000250007",
+      "stock": 15,
+      "unit":"EA",
+      "price":30
+    },
+    {
+      "barcode": "5710405281779",
+      "title": "title 5710405281779",
+      "description": "description 5710405281779",
+      "stock": 5,
+      "unit":"EA",
+      "price":10
+    },
+    {
+      "barcode": "2080950005001",
+      "title": "title 2080950005001",
+      "description": "description 2080950005001",
+      "stock": 90,
+      "unit":"EA",
+      "price":180
+    },
+    {
+      "barcode": "2080950007500",
+      "title": "title 2080950007500",
+      "description": "description 2080950007500",
+      "stock": 1,
+      "unit":"EA",
+      "price":2
+    },
+    {
+      "barcode": "2080950010005",
+      "title": "title 2080950010005",
+      "description": "description 2080950010005",
+      "stock": 100,
+      "unit":"kG",
+      "price":200
+    },
+     {
+      "barcode": "2000000099958",
+      "title": "title 2000000099958",
+      "description": "description 2000000099958",
+      "stock": 58,
+      "unit":"EA",
+      "price":116
+    },
+    {
+      "barcode": "2000000149004",
+      "title": "title 2000000149004",
+      "description": "description 2000000149004",
+      "stock": 4,
+      "unit":"EA",
+      "price":8
+    }
+    
+  ],
+  "getPriceByBarcode": [
+    
+     {
+      "barcode": "2000000099958",
+      "title": "title 2000000099958",
+      "description": "description 2000000099958",
+      "stock": 58,
+      "unit":"EA",
+      "price":116
+    },
+     {
+      "barcode": "5710405065348",
+      "title": "title 5710405065348",
+      "description": "description 5710405065348",
+      "stock": 9,
+      "unit":"EA",
+      "price":18
+    },
+    
+    {
+      "barcode": "5710405068974",
+      "title": "title 5710405068974",
+      "description": "description 5710405068974",
+      "stock": 17,
+      "unit":"EA",
+      "price":34
+    },
+    
+    {
+      "barcode": "5710405069667",
+      "title": "title 5710405069667",
+      "description": "description 5710405069667",
+      "stock": 20,
+      "unit":"EA",
+      "price":40
+    },
+     {
+      "barcode": "5710405066321",
+      "title": "title 5710405066321",
+      "description": "description 5710405066321",
+      "stock": 11,
+      "unit":"kg",
+      "price":22
+    },
+     {
+      "barcode": "5710405267285",
+      "title": "title 5710405267285",
+      "description": "description 5710405267285",
+      "stock": 80,
+      "unit":"EA",
+      "price":160
+    },
+    {
+      "barcode": "2080950001256",
+      "title": "title 2080950001256",
+      "description": "description 2080950001256",
+      "stock": 56,
+      "unit":"EA",
+      "price":112
+    },
+    {
+      "barcode": "2080950002505",
+      "title": "title 2080950002505",
+      "description": "description 2080950002505",
+      "stock": 75,
+      "unit":"KG",
+      "price":150
+    },
+    {
+      "barcode": "2000000250007",
+      "title": "title 2000000250007",
+      "description": "description 2000000250007",
+      "stock": 15,
+      "unit":"EA",
+      "price":30
+    },
+    {
+      "barcode": "5710405281779",
+      "title": "title 5710405281779",
+      "description": "description 5710405281779",
+      "stock": 5,
+      "unit":"EA",
+      "price":10
+    },
+    
+    {
+      "barcode": "5710405068936",
+      "title": "title 5710405068936",
+      "description": "description 5710405068936",
+      "stock": 14,
+      "unit":"KG",
+      "price":28
+    },
+   
+    {
+      "barcode": "2080950007500",
+      "title": "title 2080950007500",
+      "description": "description 2080950007500",
+      "stock": 1,
+      "unit":"EA",
+      "price":2
+    },
+    {
+      "barcode": "2080950010005",
+      "title": "title 2080950010005",
+      "description": "description 2080950010005",
+      "stock": 100,
+      "unit":"kG",
+      "price":200
+    },
+    
+    {
+      "barcode": "2000000149004",
+      "title": "title 2000000149004",
+      "description": "description 2000000149004",
+      "stock": 4,
+      "unit":"EA",
+      "price":8
+    },
+     {
+      "barcode": "2080950005001",
+      "title": "title 2080950005001",
+      "description": "description 2080950005001",
+      "stock": 90,
+      "unit":"EA",
+      "price":180
+    }
+  ]
+}
