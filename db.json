@@ -17,6 +17,14 @@
       "unit":"EA",
       "price":18
     },
+    {
+      "barcode": "5710405284060",
+      "title": "title 5710405284060",
+      "description": "description 5710405284060",
+      "stock": 31,
+      "unit":"EA",
+      "price":62
+    },
      {
       "barcode": "5710405066321",
       "title": "title 5710405066321",
@@ -222,6 +230,14 @@
       "price":2
     },
     {
+      "barcode": "5710405284060",
+      "title": "title 5710405284060",
+      "description": "description 5710405284060",
+      "stock": 31,
+      "unit":"EA",
+      "price":62
+    },
+    {
       "barcode": "2080950010005",
       "title": "title 2080950010005",
       "description": "description 2080950010005",
@@ -373,6 +389,14 @@
       "stock": 90,
       "unit":"EA",
       "price":180
+    },
+    {
+      "barcode": "5710405284060",
+      "title": "title 5710405284060",
+      "description": "description 5710405284060",
+      "stock": 31,
+      "unit":"EA",
+      "price":62
     }
   ]
 }
